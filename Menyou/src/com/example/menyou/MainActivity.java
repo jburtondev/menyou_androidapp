@@ -13,8 +13,6 @@ public class MainActivity extends Activity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
 
-		// Plays music at the startup
-
 		//Buttons with intents
 		//First Button:
 		//		1.Gallery
